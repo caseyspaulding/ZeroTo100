@@ -1,5 +1,5 @@
 :root{
-    --primary-color: #067edf;
+    --primary-color: #093bb9;
     --secondary-color: #0661f4;
     --dark-color: #000;
     --white-color: #d8d8dd;
@@ -16,6 +16,10 @@ footer .social>a{
 
 h1,h2,h3,h4,h5,h6 {
     color: var(--primary-color);
+}
+
+.logoFont{
+    font-family: 'Racing Sans One', cursive;
 }
 
 .bsicon{
