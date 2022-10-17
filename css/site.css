@@ -5,13 +5,16 @@
     --white-color: #d8d8dd;
 }
 
+.fa-heart:hover{
+    color: var(--secondary-color) !important;
+ }
 
 footer{
     padding-right: .5rem;
 }
 
 footer .social>a{
-    color: var(--secondary-color);
+    color: var(--white-color);
 }
 
 h1,h2,h3,h4,h5,h6 {
